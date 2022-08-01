@@ -21,11 +21,17 @@ asdas
 ## 🔬 Research & Experience
 
 **Research Associate @[The Micro-Flight Lab](https://www.beatus-lab.org/) - Hebrew University of Jerusalem** _(oct 2021 - present)_ <br>
+
 Part of the "Robotic-fly" group, in which we, along-side [Rafael Ltd.](https://www.rafael.co.il/), develop
 a biomimetic, flying, robotic insect. I was requested to join the group to
 initiate the robot project, and my main responsibility is the integration of Reinforcement Learning tools with the robotic mechanism to 
 optimize flight parameters such as lift and minimum work.
 
 **Teaching Assistant - Hebrew University of Jerusalem** _(oct 2021 - present)_ <br>
+
 Grading Computer Science BSc students in the courses Data structures
 and Computational Models, Computability & Complexity
+
+**Senior Sergeant - IDF School for Infantry Corps Professions and Squad Commanders** _(mar 2016- mar 2017)_ <br>
+  As per my military service, I was responsible for the qualification and training of 40 Infantry soldiers in
+  the process of becoming infantry commanders. Prior to that, I was a commander in the “Golani” infantry brigade
