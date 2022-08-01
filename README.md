@@ -2,7 +2,7 @@
 
 _I’m a Computer Science M.Sc. student at the Hebrew University of
 Jerusalem, with a Physics & CS dual major B.Sc. Currently seeking data
-science and research internship opportunities._ <br>
+science and/or research internship opportunities._ <br>
 
 [Email (hadar933@gmail.com)](mailto:hadar933@gmail.com) / [GitHub](https://github.com/Hadar933) / [LinkedIn](https://www.linkedin.com/in/hadar-sharvit/) 
 
