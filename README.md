@@ -14,6 +14,18 @@ science and research internship opportunities._ <br>
 
 **B.Sc. Computer science & Physics- Hebrew University of Jerusalem**   _(oct 2018 - oct 2021)_ <br>
   - Having completed physics related laboratory projects and various courses, gained introductory knowlege in data-based coding challenged such as data pre-processing, analyzing, regression and classification tasks, etc..
- 
+
+## 🎯 Projects
+asdas 
+
 ## 🔬 Research & Experience
 
+**Research Associate @[The Micro-Flight Lab](https://www.beatus-lab.org/) - Hebrew University of Jerusalem** _(oct 2021 - present)_ <br>
+Part of the "Robotic-fly" group, in which we, along-side [Rafael Ltd.](https://www.rafael.co.il/), develop
+a biomimetic, flying, robotic insect. I was requested to join the group to
+initiate the robot project, and my main responsibility is the integration of Reinforcement Learning tools with the robotic mechanism to 
+optimize flight parameters such as lift and minimum work.
+
+**Teaching Assistant - Hebrew University of Jerusalem** _(oct 2021 - present)_ <br>
+Grading Computer Science BSc students in the courses Data structures
+and Computational Models, Computability & Complexity
