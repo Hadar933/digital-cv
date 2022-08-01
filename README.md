@@ -48,7 +48,7 @@ Four years of university experience including
 - Pandas: data analysis and pre-processing
 - SciKit-Learn: working with known ML modules or implementing them
 - Other APIs:  Integration with motors and controllers to drive robots (some of which include working with Arduino)
-- 
+ 
 **Other Tools**:
 - C,C++: Both C,C++ and Operating systems university course knowledge such as threading, scheduling, working with memory, etc.. 
 - JAVA: University Object Oriented course knowledge such as classes, inheritance, interfaces etc..
