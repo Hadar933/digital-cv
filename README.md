@@ -46,6 +46,7 @@ Four years of university experience including
 - Matplotlib: data plotting and visual representations
 - Pandas: data analysis and pre-processing
 - SciKit-Learn: working with known ML modules or implementing them
+- SciPy: scientific related tasks such as signal analysis, fourier transforms, differential equations solvers, etc.
 - Other APIs:  Integration with motors and controllers to drive robots (some of which include working with Arduino)
  
 **Other Tools**:
